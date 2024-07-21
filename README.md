@@ -9,7 +9,7 @@ README.md.
 
 ## Installed
 
-o view the website, simply visit the following link: [https://kuchinsk1y.github.io/GitHT/](https://kuchinsk1y.github.io/GitHT/).
+To view the website, simply visit the following link: [https://kuchinsk1y.github.io/GitHT/](https://kuchinsk1y.github.io/GitHT/).
 
 ## Using
 
